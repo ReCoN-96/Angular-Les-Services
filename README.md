@@ -76,8 +76,6 @@ describe('Quest Test Suite', () => {
 });
 
 
-Poste ensuite ton résultat via un gist.
-
 Critères de validation
 Le service contient une méthode getCocktails retournant l'ensemble des cocktails.
 Le composant doit posséder une propriété publique nommée cocktails.
